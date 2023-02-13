@@ -1,4 +1,4 @@
-# helsinki_cycle_paths
+# Rate my bikepath - Helsinki
 Collaborative map with ratings of Helsinki bike paths. I create the routes in brouter.de, and then modify them in geojson.io to add a column with rating and whether a segment is next to a road.
 
 
